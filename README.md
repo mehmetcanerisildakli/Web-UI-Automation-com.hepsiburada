@@ -1,6 +1,6 @@
 # Web UI Automation
 
-It is created to be sample case project that tests functinality of an web application com.hepsiburada
+It is created to be sample case project that tests functionality of a web application com.hepsiburada
 
 
 Steps (Gherkin):
