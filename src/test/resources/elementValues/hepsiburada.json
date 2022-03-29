@@ -1,0 +1,43 @@
+[
+  {
+    "key": "modaSelection",
+    "value": "(//*[@class=\"sf-MenuItems-5_2RN\"])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "womenWatch",
+    "value": "(//a[@href=\"https://www.hepsiburada.com/bayan-kol-saatleri-c-25008405\"])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "guessBrand",
+    "value": "//input[@value = \"guess\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "thirdProduct",
+    "value": "(//ul[@id= \"1\"]/li/div/a)[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "productNameOnProductPage",
+    "value": "//h1[@id = \"product-name\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "addToChart",
+    "value": "//*[@id = \"addToCart\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "goToChart",
+    "value": "//*[@id = \"shoppingCart\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "productNameOnBasketPage",
+    "value": "//*[@class= \"product_properties_2hkip\"]",
+    "type": "xpath"
+  }
+
+]
